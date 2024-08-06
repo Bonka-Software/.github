@@ -1,6 +1,11 @@
+__Minecraft server__: `play.bonka.gg` [*Currently in development*]<br />
+__Minecraft version__: `1.20.1`
+
 # We make fun minecraft experiences
 
 Welcome to Bonka Software, your premier destination for innovative and engaging Minecraft games! At Bonka, we specialize in crafting unique experiences on Minecraft servers, blending creativity and technology to bring your gaming fantasies to life. Currently, we're excited to unveil our latest project, Cookie Miner, an incremental MMORPG that promises endless fun and adventure. Join our vibrant community and embark on a journey where your mining skills and strategic prowess will be put to the test. Dive into the world of Bonka and discover the magic of Minecraft like never before!
+
+![BoompaLoompa](https://github.com/user-attachments/assets/2c5a690e-f761-41aa-b51f-97d13a08cc80)
 
 # Our pressence on github
 
