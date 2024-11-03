@@ -1,5 +1,5 @@
 __Minecraft server__: `play.bonka.gg` [*Currently in development*]<br />
-__Minecraft version__: `1.20.1`
+__Minecraft version__: `1.21.1`
 
 # We make fun minecraft experiences
 
